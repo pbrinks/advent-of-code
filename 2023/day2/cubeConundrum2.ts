@@ -30,4 +30,4 @@ const codeConundrum2 = () => {
   console.log({ sum });
 };
 
-codeConundrum2(); // 58269
+codeConundrum2();

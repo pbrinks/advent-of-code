@@ -31,4 +31,4 @@ const codeConundrum1 = () => {
   console.log({ sum });
 };
 
-codeConundrum1(); // 2101
+codeConundrum1();
