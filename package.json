@@ -1,5 +1,10 @@
 {
+  "name": "advent-of-code",
+  "author": "Paige Brinks",
   "devDependencies": {
     "@types/node": "^20.10.2"
+  },
+  "dependencies": {
+    "typescript": "^5.3.2"
   }
 }
